@@ -1,0 +1,22 @@
+.post_item{
+    border:  solid12px green;
+}
+
+
+.head{
+    display: flex;
+}
+.date{
+    margin:auto;
+}
+li{
+    display: flex;
+
+}
+.title{
+    color: rgba(214, 202, 93, 0.966);
+    letter-spacing: 1.5px;
+}
+.date{
+    color: rgb(147, 190, 112);
+}

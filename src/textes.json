@@ -1,0 +1,33 @@
+{
+    "cameraInfo": "Camera___Voluptate .   amet cupidatat. Reprehenderit proident ea mollit irure excepteur excepteur adipisicing irure. Dolore nostrud anim commodo sunt qui. Ad commodo deserunt laborum dolor sit exercitation tempor exercitation laboris ut veniam nulla tempor excepteur. Irure Lorem anim qui et esse elit incididunt. Quis in laborum .",
+    "gameInfo": "Game___Eiusmod dolor minim cupidatat nostrud minim. Veniam enim tempor laborum esse commodo consequat voluptate laboris consequat amet. Incididunt adipisicing aliquip in dolor. Aute mollit aliqua anim proident aliquip tempor adipisicing laboris. Esse ipsum ullamco nisi occaecat fugiat voluptate do consequat sunt qui amet enim.",
+    "organInfo": "Organ___Consectetur proident dolor ullamco ex consectetur amet nostrud. Ea reprehenderit et nostrud aute fugiat. Culpa mollit consectetur consectetur cupidatat duis et laborum adipisicing. Elit dolor ex nisi proident.minim cupidatat nostrud minim. Veniam enim tempor laborum esse commodo consequat voluptate  ",
+    "gamepadPanel": "GamepadPуnel__Adipisicing cillum irure dolore aliqua veniam eu dolor reprehenderit amet ea fugiat et magna nisi. Tempor quis ut fugiat exercitation eiusmod voluptate deserunt cillum voluptate labore. Aute sint culpa ullamco aliquip laboris. Do veniam irure aute elit fugiat laboris ad aliqua proident quis adipisicing nisi amet. Qui pariatur id aliquip aliquip anim quis commodo fugiat. Aliqua fugiat ullamco nostrud elit ullamco minim.",
+    "cameraPanel": "CameraPanel__Adipisicing cillum irure dolore aliqua veniam eu dolor reprehenderit amet ea fugiat et magna nisi. Tempor quis ut fugiat exercitation eiusmod voluptate deserunt cillum voluptate labore. Aute sint culpa ullamco aliquip laboris. Do veniam irure aute elit fugiat laboris ad aliqua proident quis adipisicing nisi amet. Qui pariatur id aliquip aliquip anim quis commodo fugiat. Aliqua fugiat ullamco nostrud elit ullamco minim.",
+    "organPanel": "OrganPanel__Adipisicing cillum irure dolore aliqua veniam eu dolor reprehenderit amet ea fugiat et magna nisi. Tempor quis ut fugiat exercitation eiusmod voluptate deserunt cillum voluptate labore. Aute sint culpa ullamco aliquip laboris. Do veniam irure aute elit fugiat laboris ad aliqua proident quis adipisicing nisi amet. Qui pariatur id aliquip aliquip anim quis commodo fugiat. Aliqua fugiat ullamco nostrud elit ullamco minim.",
+    "historyPanel": "History___Irure voluptate ea consectetur dolore pariatur laborum tempor. Adipisicing magna nostrud magna adipisicing aliquip deserunt veniam ullamco voluptate. Culpa labore esse magna sint cillum deserunt velit sit commodo sunt non. Deserunt ut mollit laborum mollit ex veniam. Veniam consequat amet laboris ea in. Deserunt minim occaecat ut ut. Mollit labore proident id ullamco nulla eu dolore irure reprehenderit ad est nisi.",
+    "aboutUsPanel": "About Us___Aute officia non cupidatat cupidatat non proident eiusmod velit anim enim. Et exercitation ex veniam sunt minim reprehenderit dolore sit cupidatat sint sunt aliquip sit et. Ut laboris incididunt eiusmod eiusmod exercitation cupidatat sit excepteur minim ex aute reprehenderit. Laboris aliqua laboris adipisicing nostrud duis. Dolor culpa et nostrud esse anim minim. Do ullamco adipisicing in ad dolor elit. Tempor exercitation mollit culpa irure dolor amet aute sit sit sit voluptate.",
+    "events": [
+        {
+            "id": 1,
+            "icon": "../../media/gamepad_icon.svg",
+            "title": "Cyberpunk Party",
+            "date": 12.03,
+            "eventInfo": "Get into the world of the unfulfilled past! Find the same bionic robots like you for an evening together in your favorite game"
+        },
+        {
+            "id": 2,
+            "icon": "../../media/camera_icon.svg",
+            "title": "Movie Night by Technocracy",
+            "date": 9.12,
+            "eventInfo": "Get into the world of the unfulfilled past! Find the same bionic robots like you for an evening together in your favorite game"
+        },
+        {
+            "id": 3,
+            "icon": "../../media/gamepad_icon.svg",
+            "title": "My Lovely Atmosphere",
+            "date": 12.01,
+            "eventInfo": "Get into the world of the unfulfilled past! Find the same bionic robots like you for an evening together in your favorite game"
+        }
+    ]
+}

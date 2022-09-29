@@ -1,0 +1,19 @@
+.head{
+    display: flex;
+    justify-items: start;
+
+}
+
+.head  button{
+    color: lightcoral;
+    width: 10vw;
+    height: 5vh;
+    max-width: 60px;
+    background-color: rgba(75, 18, 46, 0.493);
+    margin: 10px;
+    justify-self: left;
+}
+
+.schedule{
+    margin: auto;
+}

@@ -1,0 +1,86 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100vw;
+    height: 100vh;
+
+    
+}
+
+.main_buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+
+}
+
+.gameInfo, .cameraInfo, .organInfo{
+    transform: translateY(2000%);
+    display:none;
+}
+
+.gameInfo.active, .cameraInfo.active, .organInfo.active{
+    display: flex;
+    flex-direction: column;
+    color: #DEABAB;
+    font-family: 'Commando';
+    text-align: center;
+    font-size: min(3vw, 30px);
+    line-height: 90%;
+    text-shadow: 0px 30px 50px #ff007771;
+    max-width: 80%;
+    align-self: center;
+    transform: translateY(0%);
+    transition: all 1s;
+    background-color: black;
+    border-radius: 2rem;
+    padding-top: 3vh;
+    border: #509b9b 2px solid;
+    box-shadow: inset rgba(45, 149, 180, 0.568) 0 -3px 8px,
+    inset rgba(31, 167, 230, 0.815) 0 3px 8px,
+    rgb(110, 18, 214) 0 3px 8px -3px;
+
+}
+
+button{
+    border-radius: 7px;
+    height: 7vh;
+    width: 30vw;
+    bottom: 0%;
+    align-self: center;
+    cursor: pointer;
+    color: rgb(29, 134, 73);
+    font-family: Commando;
+    font-size: 3vh;
+
+    background-color: rgba(153, 18, 81, 0.541);
+    margin: 10px;
+    transition: all 0.2s;
+
+}
+button:hover{
+    box-shadow: 0 0 .2rem rgb(150, 27, 27),
+    0 0 .2rem #fff,
+    0 0 0 #42175391,
+    0 0 0 #bc13fe,
+    0 0 7rem #bc13fe,
+    inset 0 0 1.3rem #bc13fe;
+    font-size: 3.2vh;
+    text-shadow: rgb(29, 134, 73) 1px 0 10px;
+    width: 31vw;
+}
+.back_btn{
+    color: lightcoral;
+    width: 10vw;
+    height: 5vh;
+    max-width: 60px;
+    background-color: rgba(75, 18, 46, 0.493);
+    margin: 10px;
+}
+
+
+
+
+
+
